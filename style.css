@@ -1,0 +1,10 @@
+.canvasss{
+	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
+}
+#canvas{
+	display: block;
+	margin: 0 auto;
+	margin-top: 100px;
+}
